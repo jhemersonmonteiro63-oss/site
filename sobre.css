@@ -1,0 +1,15 @@
+/*body*/
+body, html{
+	margin: 10px;
+	background-color: #89cff0;
+	font-family: 'montserrat', sans-serif;
+	color: #1E3A5F;
+}
+/*linha*/
+conteudob{ font-family:'bebas sans;'sans-serif;
+	margin-left: 10px;
+	font-size: 15px;
+	text-align: left;
+	text-decoration: blink;
+
+}
